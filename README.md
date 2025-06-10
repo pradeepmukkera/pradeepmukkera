@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pradeepmukkera
-- 👀 I’m interested in working on python ...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on working on python
+- 👀 I’m interested in working on python,sql,Power BI.
+- 💞️ I’m looking to collaborate on working on python,Sql
 - 📫 How to reach me --mail me at pradeepmukkera525@gmail.com
 
 <!---
